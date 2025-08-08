@@ -1,0 +1,51 @@
+{
+  "semester": 1,
+  "total_credits": 20.5,
+  "courses": [
+    {
+      "code": "MA101",
+      "title": "Calculus-I",
+      "credits": "3-1-0",
+      "modules": [
+        "Successive Differentiation, Leibnitz Theorem, Generalized MVT, Taylor/Maclaurin Expansions, Extrema.",
+        "Behavior at Infinity, Asymptotes, Curvature in Cartesian, Parametric, Polar Forms.",
+        "Functions of Several Variables, Jacobians, Euler’s Theorem, Max-Min, Lagrange Multipliers.",
+        "Definite and Improper Integrals, Beta, Gamma, and Error Functions.",
+        "Applications: Area, Volume, Arc Length, Work, Moments."
+      ]
+    },
+    {
+      "code": "MA102",
+      "title": "Real Analysis",
+      "credits": "3-1-0",
+      "modules": [
+        "Real Number System, Neighborhoods, Open/Closed Sets.",
+        "Sequences, Convergence Tests, Cauchy and Nested Interval Theorems.",
+        "Series, Ratio/Root/Comparison Tests, Conditional Convergence.",
+        "Sequences and Series of Functions, Uniform Convergence, M-Test.",
+        "Riemann Integration, Darboux Theorem, Fundamental Theorem of Calculus."
+      ]
+    },
+    {
+      "code": "MA109",
+      "title": "Matrix Theory",
+      "credits": "3-1-0",
+      "modules": [
+        "Matrix Types, Properties, Partitioned Matrices.",
+        "Rank, Row Echelon Forms, System of Linear Equations.",
+        "Gaussian Elimination, LU-Decomposition, Linear Transformations.",
+        "Eigenvalues/Vectors, Diagonalization, Minimal Polynomials.",
+        "Cayley-Hamilton, Real Quadratic Forms, Signature, Definiteness."
+      ]
+    },
+    { "code": "CH111", "title": "Chemistry I", "credits": "3-1-0" },
+    { "code": "CH112", "title": "Chemistry I Lab", "credits": "0-0-4" },
+    { "code": "MT132", "title": "Communication Skill I", "credits": "0-0-3" },
+    {
+      "code": "VAC",
+      "title": "Value Added Course",
+      "credits": "1",
+      "options": ["NCC", "NSS", "PT & Games", "Creative Arts", "Entrepreneurship"]
+    }
+  ]
+}

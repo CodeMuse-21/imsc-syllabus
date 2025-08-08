@@ -1,0 +1,54 @@
+{
+  "semester": 2,
+  "total_credits": 23.5,
+  "courses": [
+    {
+      "code": "MA105R1",
+      "title": "Calculus-II",
+      "credits": "3-0-0",
+      "modules": [
+        "3D Coordinates, Lines, Planes, Spheres, Cylinders.",
+        "Double/Triple Integrals, Area & Volume, Change of Variables.",
+        "Scalar & Vector Functions, Gradient, Curl, Divergence.",
+        "Line/Surface/Volume Integrals, Green’s, Gauss’s, Stokes’ Theorems.",
+        "Curvilinear Coordinates, Gradient, Curl, Divergence in Cylindrical/Spherical Coordinates."
+      ]
+    },
+    {
+      "code": "MA106R1",
+      "title": "Ordinary Differential Equations",
+      "credits": "3-0-0",
+      "modules": [
+        "First Order ODEs, Lagrange’s & Clairaut’s Equations.",
+        "Higher Order Linear ODEs, Wronskian, Variation of Parameters.",
+        "Simultaneous & Total Differential Equations.",
+        "Series Solutions, Bessel & Legendre Equations.",
+        "Picard’s Method, Sturm-Liouville Problems, Eigenvalues."
+      ]
+    },
+    {
+      "code": "MA110R1",
+      "title": "Complex Analysis",
+      "credits": "3-0-0",
+      "modules": [
+        "Analytic Functions, Cauchy-Riemann Equations.",
+        "Complex Integration, Cauchy’s Theorems.",
+        "Taylor & Laurent Series, Singularities.",
+        "Residue Theorem, Applications to Real Integrals.",
+        "Conformal Mapping, Bilinear Transformation."
+      ]
+    },
+    { "code": "PH109", "title": "Physics I", "credits": "3-1-0" },
+    { "code": "PH110R1", "title": "Physics I Lab", "credits": "0-0-4" },
+    { "code": "CE101", "title": "Environmental Science", "credits": "2-0-0" },
+    { "code": "CS101", "title": "Programming for Problem Solving", "credits": "3-1-0" },
+    { "code": "CS102", "title": "Programming Lab", "credits": "0-0-3" },
+    {
+      "code": "VAC",
+      "title": "Value Added Course",
+      "credits": "1",
+      "options": ["NCC", "NSS", "PT & Games", "Creative Arts", "Entrepreneurship"]
+    }
+  ]
+}
+
