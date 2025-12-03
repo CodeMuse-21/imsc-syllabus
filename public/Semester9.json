@@ -1,0 +1,90 @@
+{
+  "semester": 9,
+  "total_credits": 18,
+  "courses": [
+    {
+      "code": "MA414R1",
+      "title": "Advanced Operation Research",
+      "credits": "3-0-0-3",
+      "modules": {
+        "Module I": [
+            "Dynamic Programming: Introduction of Dynamic Programming, Deterministic Dynamic Programming: Forward and Backward Recursion,",
+            "Applications of Dynamic Programming on Cargo load problem and inventory Models, Solution of linear programming problems by dynamic programming."
+        ],
+        "Module II": [
+            "Inventory Management: Introduction to general inventory Models, Classical Economic Order Quantity (EOQ) models,",
+            "Inventory models with multiple price breaks, EOQ with price breaks(One and two Price breaks only), multi-item EOQ with storage limitations. ",
+            "Introduction to dynamic EOQ Models, Introduction to Stochastic inventory models."
+        ],
+        "Module III": [
+            "Decision Analysis and Games: Decision making under certainty, risk and uncertainty. Optimal Solution of Two-Person Zero-Sum games and solution of mixed strategy games."
+        ],
+        "Module IV": [
+            "Queuing Theory: Basic elements of queuing models, Pure Birth and Death Models, Poisson Queuing systems: single server models-",
+            "{(M/M/1):(∞/FCFS)}, {(M/M/1):(N/FCFS)}, multiple server models-{(M/M/S):(∞ /FCFS)}, {(M/M/S):(N/FCFS)}."
+        ],
+        "Module V": [
+            "Classical Optimization Theory and Non-linear Programming: Unconstrained optimization: Fibonacci and Golden section method, ",
+            "Gradient Method: Steepest descent, conjugate direction methods and Newton's method. Constraint Optimization with equality",
+            "constraints: Lagrange’s Multiplier Method, Constraint Optimization with inequality constraints: Kuhn Tucker Conditions, Quadratic Programming."
+        ]
+      }
+    },
+    {
+      "code": "MA402R1",
+      "title": "Basics of Machine Learning",
+      "credits": "3-0-0-3",
+      "modules": {
+        "Module I": [
+            "Topology of the complex plane, Stereographic projection. Holomorphic (analytic) functions, Anti-derivatives,",
+            "Cauchy-Goursat Theorem (simple and multiple connected domain), Cauchy – Integral Formula and its extensions,",
+            "Cauchy’s Inequality, Morera’s theorem, Liouville’s theorem."
+        ],
+        "Module II": [
+            "Convergence of sequences and series, power series, absolute and uniform convergence of power series of complex functions,",
+            "integration and differentiation of power series, radius of convergence, Taylor and Laurent series, analytic continuation."
+        ],
+        "Module III": [
+            "Residues, Residue theorem. Multivalued functions and their properties, branch point, branch cut,",
+            "evaluation of integrals involving branch point using calculus of residues."
+        ],
+        "Module IV": [
+            "Meromorphic function and its properties, zeros and poles of meromorphic function, winding number, Argument principle,",
+            "Rouche’s theorem and its applications, Maximum Modulus theorem."
+        ],
+        "Module V": [
+            "Infinite products, convergence of infinite products, Entire functions, Weierstrass primary factors,",
+            "Weierstrass infinite product, Hadamard’s factorization theorem, genus and order of entire function, growth of entire functions."
+        ]
+      }
+    },
+    {
+      "code": "MA404",
+      "title": "Mathematical Epidemiology",
+      "credits": "3-1-0-4",
+      "modules": {
+        "Module I": [
+            "Qualitative analysis of linear and nonlinear systems: Existence, uniqueness and continuity of solutions, Diagonalization of linear systems,",
+            "fundamental theorem of linear systems, the phase paths of linear autonomous plane systems, complex eigenvalues, multiple eigenvalues,",
+            "stability theorem, linearization of nonlinear dynamical systems (two, three and higher dimension),",
+            "Stability: (i) asymptotic stability (Hartman’s theorem), (ii) global stability (Lyapunov’s second method)."
+        ],
+        "Module II": [
+            "Deterministic Epidemic Models: Deterministic model of simple epidemic, Infection through vertical and horizontal transmission,",
+            "General epidemic- Kermack-Mckendrick Threshold Theorem, Recurrent epidemics, Seasonal variation in infection rate, allowance of incubation period,",
+            "Simple model for the spatial spread of an epidemic."
+        ],
+        "Module III": [
+            "Non-Constant Total Population Model in Epidemic: Introduction, Parasite-host system, SIS, SIR and SIRS type model. "
+        ],
+        "Module IV": [
+            "Stochastic Epidemic Models: Introduction, stochastic simple epidemic model, Yule-Furry model (pure birth process),",
+            "expectation and variance of infective, calculation of expectation by using moment generating function."
+        ],
+        "Module V": [
+            "Eco-Epidemiology: Introduction, host-parasite-predator systems, viral infection on phytoplankton zooplankton (prey-predator) system."
+        ]
+      }
+    }
+  ]
+}

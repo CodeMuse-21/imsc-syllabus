@@ -1,0 +1,174 @@
+{
+  "semester": 4,
+  "total_credits": 21.5,
+  "courses": [
+    {
+      "code": "MA206R1",
+      "title": "Linear Algebra",
+      "credits": "3-0-0",
+      "modules": {
+        "Module I": [
+         "Vector spaces, subspaces, linear combination, linear span, spanning sets, linear dependence and independence",
+         " Basis and dimension of a vector space, sums."
+
+        ],
+        "Module II": [
+         "Linear transformation (L.T.), kernel and image, rank-nullity theorem and its applications,singular ",
+          "and non-singular L.T."
+        ],
+        "Module III": [
+          "Matrix representation of a linear transformation, change-of-basis (Transition) matrix.",
+            "Eigenvalues and eigenvectors, characteristic and minimal polynomials of linear operator."
+        ],
+        "Module IV": [
+          "Eigenvalues of symmetric, skew symmetric, orthogonal and unitary matrices, Diagonalizationand triangular form of matrices.",
+        "Introduction to Jordan blocks and matrices in Jordon",
+        "canonical form (examples only). An algorithm to find Jordan form of a square matrix (Noproof)"
+
+        ],
+        "Module V": [
+         "Inner product spaces over R (real numbers) and C (complex numbers), Norm of a vector",
+           "Schwarz’s Inequality, Triangle inequality, Orthogonality of vectors, orthogonal sets and basis",
+         "Parallelogram law, Bessel’s inequality, Gram-Schmidt orthogonalization processOrthogonal projection"
+
+        ]
+      }
+    },
+    {
+      "code": "MA 210",
+      "title": "Discrete Mathematical Structure and Graph Theory",
+      "credits": "3-1-0-4",
+      "modules": {
+        "Module I": [
+         "Introduction to Logic: Mathematical Logic and Mathematical Reasoning, Compound",
+"Statements, Truth tables, Propositional Equivalences, Predicates and Quantifiers, Methods of",
+"Proof, Validity of an Argument, Well Ordering Principle, Mathematical Induction"
+        ],
+        "Module II": [
+         "Recursion: Recurrence Relations, Classification of Recurrence Relations and their Solutions",
+"By Characteristic Root Method, Generating Function and their Various Aspects, Utility of Generating function in Solving Recurrence Relations."
+
+        ],
+        "Module III": [
+         "Principles of Counting and Algorithms: The Principle of Inclusion-Exclusion",
+          "The Addition and Multiplication Rules, The pigeon-hole Principle, Complexity, Searching andSorting Algorithm",
+         "Enumeration of Permutations and Combinations"
+        ],
+        "Module IV": [
+         "Introduction to Graph Theory: Introduction to Graph, Graph Terminologies and their",
+"Representation, Isomorphic Graph, Connected & Disconnected graphs, Euler & Hamiltonian",
+"graphs, Digraphs, Tournaments, Matrix Representation of Graphs and Digraphs, Scheduling",
+"Problems, Planar Graphs, Euler’s formula, Graph colouring, Chromatic polynomial." 
+        ],
+        "Module V": [
+         "Trees and Searching: Definition, Rooted Tree, Binary Tree, Characterization and Simple",
+         "Properties, Diameter of graph, Radius of graph, Center of graph, Spanning trees, Minimal",
+       "Spanning trees, Kruskal’s, Prim’s and Dijkstra’s Algorithms."
+        ]
+      }
+    },
+    {
+      "code": "CS204 ",
+      "title": "Object Oriented Programming and Design Patterns",  
+
+      "credits": "3-1-0",
+      "modules": {
+        "Module I": [
+          "Introduction to Classes, Objects and Java",     
+"Introduction to Object Technology, Java, Understanding the Java development environment", 
+"Programming in Java, Memory concepts, Doing basic Arithmetic, Comparing entities, Classes, Objects Methods, Strings, Primitive vs reference types."
+
+        ],
+        "Module II": [
+        "Control Statements, Methods and Arrays Basic selection statements, Iterative constructs, Relative and Logical operators, break, continue, Methods", 
+"static methods, parameter passing, argument promotion and casting, scopes, method overloading",    
+ "Arrays and ArrayList in Java, Enhanced for statement, Passing arrays to methods, Multidimensional arrays, Using command line arguments"
+
+
+        ],
+        "Module III": [
+        " Object Oriented Concepts: Polymorphism & Inheritance",   
+ 
+"Controlling access to class members, the use of this keyword, getters and setters, Composition, enum, the use of static and final, Garbage collection. Superclass and subclass, protected members",
+ "constructors in subclass, the Object class, Introduction to polymorphism, Abstract classes and methods, Assignment between subclass and superclass variables, Creating and using interfaces"
+
+    
+        ],
+        "Module IV": [
+         "Exception Handling & GUI Design When to use exception handling, Java exception hierarchy, finally block, Stack unwinding, Chained exceptions",    
+
+ "Declaring new exception types, Assertions, try with resources. Simple I/O with GUI, Basic GUI Components, GUI Event handling, Adapter classes, Layout managers, Using panels"
+
+        ],
+        "Module V": [
+         "Strings, characters & Files Working with the String and StringBuilder class, Character class, Tokenizing strings, Regular",     
+         "Expressions, Files and Streams, Using NIO classes, Sequential file handling, Object serialization", 
+"JFileChooser, Introduction to threading, Introduction to Generics and lambda expressions." 
+ 
+
+
+        ]
+      }
+    },
+    {
+      "code": "CH213",
+      "title": "General Chemistry-II",
+      "credits": "4-0-0",
+      "modules": {
+        "Module I": [
+         "States of MatterGaseous state: Kinetic theory of gas, Maxwell distribution equation, Ideal & real gases, compressibility factor",          
+ "Z Van der Waals equation of state, Boyle temperature. Continuity of states, critical state, law of corresponding states",
+"Liquid state: Physical properties of liquids; vapour pressure, surface tension and coefficient of viscosity. Solid state:", 
+"Miller indices, symmetry elements and symmetry operations, qualitative idea of point and space groups, seven crystal systems and fourteen Bravais lattices; X-ray diffraction, Bragg’s law",
+"Analysis of powder diffraction patterns"  
+
+        ],
+        "Module II": [
+         "Ionic Equilibria Strong, moderate and weak electrolytes, degree of ionization, ionization constant and ionic product of water.",       
+ 
+"Ionization of weak acids and bases, pH scale, common ion effect; dissociation constants of mono-, di-and triprotic acids Salt hydrolysis-calculation of hydrolysis constant, degree of hydrolysis and pH for different salts.", 
+" Buffer solutions; derivation of Henderson equation and its applications. Solubility and solubility product of sparingly soluble salt.",
+
+"Qualitative treatment of acid – base titration curves. Theory of acid–bases; Arrhenius, Bronsted Lowry, Lewis concept, SHAB, solvent systems; selection of indicators and their limitations",
+" Hydrolysis and hydrolysis constants"
+
+        ],
+        "Module III": [
+    " Chemistry of Aromatic Hydrocarbons Aromaticity: Hückel’s rule, aromatic character of arenes, cyclic carbocations/carbanions and heterocyclic compounds with suitable examples.",     
+
+ 
+"Electrophilic aromatic substitution: Isotopic effect, halogenation, nitration,sulphonation and Friedel-Craft’s alkylation/acylation with their mechanism & energy diagram,. Directing effects of the groups."  
+ 
+          
+
+        ],
+        "Module IV": [
+        "Oxidation-Reduction Galvanic cells and electrolytic cells, Daniel cell, different kind of half-cells, electromotive forces of a cell and its measurement, Nernst equation, Redox equilibrium, Standard Electrode Potential ",       
+
+ "its application to inorganic reactions, different types of galvanic cells, Thermodynamics of electrochemical cells and applications,"  
+  
+        ],
+        "Module V": [
+         "Chemistry of Aliphatic Hydrocarbons Carbon-Carbon sigma bonds: Chemistry of alkanes, Wurtz Reaction, Wurtz-Fittig Reactions, Free radical substitutions" ,      
+
+ "Halogenation. Carbon-Carbon pi bonds: elimination reactions, Mechanism of E1, E2, E1cb reactions",
+"Saytzeff and Hofmann eliminations. Reactions of alkenes: Electrophilic additions their mechanisms", 
+"(Markownikoff/Anti Markownikoff addition), mechanism of oxymercuration-demercuration, hydroboration oxidation, ozonolysis, reduction (catalytic and chemical), syn and anti-hydroxylation (oxidation). ",
+"1,2-and 1,4 addition reactions in conjugated dienes and, Diels-Alder reaction; Allylic and benzylic bromination and mechanism",
+ 
+"e.g. propene, 1-butene, toluene, ethyl benzene. Reactions of alkynes: Acidity, Electrophilic and Nucleophilic additions.",
+ "Hydration to form carbonyl compounds, Alkylation of terminal alkynes. Alkanes & Cycloalkanes: Types, Conformational Analysis, relative stability & Energy diagrams."
+
+        ]
+      }
+    },
+    
+   
+    {
+      "code": "VAC",
+      "title": "Value Added Course",
+      "credits": "1",
+      "options": ["NCC", "NSS", "PT & Games", "Creative Arts", "Entrepreneurship"]
+    }
+  ]
+}

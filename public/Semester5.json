@@ -1,0 +1,121 @@
+{
+  "semester": 5,
+  "total_credits": 18.5,
+  "courses": [
+    {
+      "code": "MA311R1",
+      "title": "Numerical Techniques",
+      "credits": "3-0-0-3",
+      "modules": {
+        "Module I": [
+            "Definition and sources of errors, floating-point arithmetic and rounding errors.  Solution of algebraic and",
+            "transcendental equations: Bisection method, Secant method, Regula-Falsi method, Newton-Raphson method and its variants,",
+            "General iterative method and their convergence analysis."
+        ],
+        "Module II": [
+            "Gauss-Elimination, Gauss-Jordan, LU-Decomposition, Cholesky, Gauss-Jacobi and GaussSeidel methods to solve linear system of equation.",
+            "Error and convergence analysis of above methods. Power method to find least and largest eigenvalues."
+        ],
+        "Module III": [
+            "Lagrange’s interpolation, Newton’s divided differences interpolation formulas, inverse interpolation, interpolating polynomial",
+            "using finite differences, Piecewise interpolation, spline interpolation, B-splines, cubic splines."
+        ],
+        "Module IV": [
+            "Differentiation using interpolation formulas. Integration using Newton-Cotes formulas",
+            "(Trapezoidal rule, Simpson’s 1/3, 3/8 rule, Weddle’s rule) and their error analysis."
+        ],
+        "Module V": [
+            "Euler’s method, modified Euler’s method, Runge-Kutta Methods of second and fourth order to solve initial value problems,",
+            "finite difference methods for boundary value problems."
+        ]
+      }
+    },
+    {
+      "code": "MA301R1",
+      "title": "Probability and Statistics",
+      "credits": "3-0-0-3",
+      "modules": {
+        "Module I": [
+            "Axioms of probability, Probability space, Conditional probability, independent events, Bayes' theorem, discrete and continuous random variables,",
+            "Cumulative distribution function, probability mass and density functions, mathematical expectation, variance, moment generating function."
+        ],
+        "Module II": [
+            "Discrete and continuous probability distributions such as Bernoulli, Binomial, Negative Binomial, Poisson, Uniform,",
+            "Exponential, Beta, Gamma and Normal distribution, distribution of function of random variable.",
+            "Covariance, Correlation and regression Analysis."
+        ],
+        "Module III": [
+            "Joint distribution for two dimensional random variables, marginal distributions, conditional distributions,",
+            "conditional expectation, conditional variance, independence of random variables, distribution of sum of two independent random variables.",
+            "The Central Limit Theorem, tdistribution, Chi-Square Distribution, F- Distribution."
+        ],
+        "Module IV": [
+            "Point Estimation and Interval Estimation, Interval Estimation of three Common Parameters: mean, variance and proportion.",
+            "The method of moments and the method of maximum likelihood estimation, confidence intervals for the mean(s) and variance(s) of normal populations. "
+        ],
+        "Module V": [
+            "Testing of Statistical hypothesis: Null and alternative hypotheses, the critical and acceptance regions, two types of error,",
+            "tests involving a population mean, tests involving a population proportion, tests involving a population variance, tests for",
+            "two population means, tests for two population proportions, tests for two population variances."
+        ]
+      }
+    },
+    {
+      "code": "MA303R1",
+      "title": "Fuzzy Logic",
+      "credits": "3-1-0-4",
+      "modules": {
+        "Module I": [
+            "Classical sets: operations on classical (crisp) sets, Properties of classical sets, Mapping of classical sets to functions.",
+            "Fuzzy Sets: Basic Fuzzy set operations, Properties of Fuzzy sets. Representation of Fuzzy Sets, Types of Membership Function,",
+            "Development of Membership Functions. Properties of membership functions."
+        ],
+        "Module II": [
+            "Crisp Relations: cartesian product, other crisp relations, operations on Relations. The Extension Principle for fuzzy sets.",
+            "Fuzzy Relations: Fuzzy Cartesian product, operations of Fuzzy relations. Compositions of Fuzzy Relations, Properties of the Min-Max Composition."
+        ],
+        "Module III": [
+            "Fuzzy Arithmetic: Fuzzy Numbers, Linguistic Variables, Arithmetic operations on interval, arithmetic operations on fuzzy numbers,",
+            "Algebraic Operations with Fuzzy Numbers, Lattice of Fuzzy Numbers."
+        ],
+        "Module IV": [
+            "Crisp logic: Law of Propositional logic, Inference in Propositional Logic. First Order Predicate Logic, Predicate Logic:",
+            "Interpretation of Predicate Logic Formula, Inference in Predicate Logic. Fuzzy Logic: Fuzzy Quantifiers, Fuzzy Inference.",
+            "Fuzzy Rule based system. Defuzzification Methods."
+        ],
+        "Module V": [
+            "Decision Making in Fuzzy Environment: Fuzzy Decisions, Fuzzy Linear Programming, Symmetric Fuzzy LP,",
+            "Fuzzy LP with crisp objective Function.  Application: Fuzzy sets model in inventory control."
+        ]
+      }
+    },
+    { 
+        "code": "CS206", 
+        "title": "Design and Analysis of Algorithm", 
+        "credits": "3-0-0-3",
+        "modules": {
+        "Module I": [
+            "Introduction, Algorithm Complexity and various cases using Insertion Sort, Asymptotic Notations, Time complexity of",
+            "Recursive Algorithm, Solving Recurrences using Iterative, Recursion Tree and Master Theorem."
+        ],
+        "Module II": [
+            "Discussion of basic approach using Binary Search, Merge Sort , Quick Sort , Selection in Expected linear time,",
+            "Maximum Subarray , Matrix Multiplication , Introduction of Transform and Conquer and AVL Tree."
+        ],
+        "Module III": [
+            "Introduction and Approach, Rod Cutting, LCS, Optimal BST, Transitive closure and All-pair Shortest Path, Travelling Salesperson Problem."
+        ],
+        "Module IV": [
+            "Introduction to greedy using fractional knapsack, Huffman Code, Minimum Spanning Tree – Prim and Kruskal,",
+            "Single Source Shortest Path Dijkstra’s and Bellman-Ford, Introduction to Backtracking using NQueens problem,",
+            "Introduction to Branch and Bound using Assignment Problem or TSP. "
+        ],
+        "Module V": [
+            "Non-deterministic algorithms – searching and sorting, Class P and NP, Decision and Optimization problem,",
+            "Reduction and NPC and NPH, NP Completeness proof for: SAT, Max-Clique, Vertex Cover, Introduction to Randomized Algorithms,",
+            "Introduction to Approximation Algorithms."
+        ]
+      } 
+    }
+  ]
+}

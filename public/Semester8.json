@@ -1,0 +1,280 @@
+{
+  "semester": 3,
+  "total_credits": 20.5,
+  "courses": [
+    {
+      "code": "MA431",
+      "title": "Applied Functional Analysis",
+      "credits": "3-0-0-3",
+      "modules": {
+        "Module I": [
+        "Metric spaces:Definition and examples. Holder’s inequality, Minkowski’s inequality, open sets, topological",
+        "spaces, separable metric spaces, Cauchy sequence, complete metric space, Cantor’s theorem",
+        "Baire’s theorem, Compactness, Heine-Borel theorem, Continuity of functions, Banach fixedpoint Theorem."
+        ],
+        "Module II": [
+         "Normed Linear Spaces, Banach Spaces, Equivalent Norms, Finite dimensional normed linear",
+         "spaces, Riesz Lemma. Bounded Linear Transformations, Normed linear spaces of bounded",
+         "linear transformations, Uniform Boundedness Theorem, Open Mapping Theorem, Closed",
+        "Graph Theorem, Linear Functionals, Hahn-Banach Theorem, Dual Space, and Reflexivity of Banach Spaces."
+
+        ],
+        "Module III": [
+          "Inner Product Space, Cauchy-Schwarz Inequality, Parallelogram law, Pythagorean Theorem,",
+          "Hilbert Spaces, Orthonormal Sets, Complete Orthonormal Sets, Legendre Polynomials,",
+          "Hermite Polynomials, Orthogonal Complement and Direct Sums, Projection operators, Riesz Representation Theorem."
+
+        ],
+        "Module IV": [
+          "Spectral Theory: Basic Concepts, Eigen Values, Eigen Vectors, Existence theorem, Spectrum, Resolvent set,",
+          "Spectrum Theorem, Spectral radius. Invertibility, Spectral mapping theorem for polynomials."
+        ],
+        "Module V": [
+          "Operators and further Applications: Hilbert Adjoint operator, Self-Adjoint, Unitary and Normal operators. Compact operators and",
+          "their spectral properties, Fredholm Alternatives. Ascoli Theorem. Applications of Hilbert and",
+          "Banach spaces and operators to Differential, Integral Equations and Approximation theory."
+        ]
+      }
+    },
+    {
+      "code": "MA502",
+      "title": "Number Theory",
+      "credits": "3-1-0-4",
+      "modules": {
+        "Module I": [
+         "Divisibility: basic definition, properties, prime numbers, some results on distribution of primes,",
+         "Division algorithm, greatest common divisor, Euclid’s Lemma, Euclidean Algorithm,",
+         "fundamental theorem of arithmetic, the greatest common divisor of more than two numbers.",
+         "Arithmetic functions and properties: Mobius function, Euler’s totient function, Mobius inversion formula."
+        ],
+        "Module II": [
+          "Congruences: Definitions and basic properties, residue classes, Reduced residue classes, complete and Reduced residue systems,",
+          "Fermat’s little Theorem, Euler’s Theorem, Wilson’s Theorem, Algebraic congruences and roots. Linear congruences,",
+          "Chinese Remainder theorem and its applications. Polynomial congruences: Meaning of “divisor” modulo ,n root and divisor.",
+          "Theorem of Lagrange on polynomial congruence modulo .p Application of Taylor’s series for polynomial congruence modulo prime power.",
+          "Primitive roots: A property of reduced residue system belonging to an exponent modulo ,m primitive roots, existence and number of primitive roots of a prime."
+        ],
+        "Module III": [
+          "Quadratic Number fields: Integers, Units, Primes and irreducible elements, Failure of unique factorization, simple continued fractions: finite and infinite,",
+          "linear Diophantine equations, Pell's equation via simple continued fraction."
+        ],
+        "Module IV": [
+          "Primality Testing and factorization algorithms, Pseudo-primes, Fermat’s pseudo-primes, Pollard’s rho method for factorization.",
+          "Euler’s criterion, quadratic residue, Legendre and Jacobi Symbol and their properties, Evaluation of (-1/p) and (2/p),",
+          "Gauss’s Lemma, Quadratic reciprocity law."
+        ],
+        "Module V": [
+          "Public Key cryptography, Diffie-Hellmann key exchange, Discrete logarithm-based cryptosystems, RSA crypto-system,",
+          "Rabin crypto-system, Knapsack crypto-system, Paillier crypto-system, Introduction to elliptic curves: Group structure,",
+          "Rational points on elliptic curves, Elliptic Curve Cryptography: applications in cryptography and factorization."
+        ]
+      }
+    },
+    {
+      "code": "MA413",
+      "title": "Stochastic Process and Simulation",
+      "credits": "3-0-0-3",
+      "modules": {
+        "Module I": [
+          "Generating Function and probability generating function with applications, Laplace",
+          "transforms (LT), properties and applications of Laplace transforms, Laplace transforms for a random variable. "
+        ],
+        "Module II": [
+          "Definition of a stochastic process, classification of a stochastic process, applications in",
+          "queues, birth and death processes, concept of stationarity, Gaussian process."
+        ],
+        "Module III": [
+         "Markov chains, order of a Markov chain, classifications of chains and states, applications of",
+           "Markov chains, Random walk, martingales, gambler’s ruin problem"
+        ],
+        "Module IV": [
+          "Poisson Process and its postulates, properties and applications, Renewal process, Diffusion process and Brownian motion."
+
+        ],
+        "Module V": [
+          "Simulation: definition, Monte Carlo Simulation, techniques for simulating well known",
+"discrete and continuous probability distributions (Binomial, Poisson, discrete uniform,",
+"Geometric, Hypergeometric, Negative Binomial, continuous uniform, Normal, exponential,Chi-Square, Cauchy, t, F, Beta 1, Beta 2)."
+
+        ]
+      }
+    },
+    {
+      "code": "MA416",
+      "title": "Statistical Inference",
+      "credits": "3-0-0-3",
+      "modules": {
+        "Module I": [
+        "Theory of Estimation: Introduction, Point Estimation and Interval Estimation, Methods of",
+"Estimation: Method of Maximum Likelihood, Method of Moments; Properties of Estimators:",
+"Unbiasedness, Consistency, Efficiency, Sufficiency; Minimum Variance Unbiased Estimator",
+"(MVUE), Cramer-Rao Inequality, Minimum Variance Bound (MVB) Estimator, Bayes Estimators. "
+
+        ],
+        "Module II": [
+         "Confidence Interval (CI) Estimation: Introduction, CI on Mean and Variance of a Normal",
+        "Distribution, CI on a Proportion, CI on the difference between Means for Paired",
+"Observations, CI on the ratio of Variances of Two Normal Distributions, CI on the difference between Two Proportions."
+
+        ],
+        "Module III": [
+          "Tests of Hypotheses: Introduction, Statistical Hypotheses, Type-I and Type-II Errors,",
+"One- Sided and Two-Sided Hypotheses, Tests of Hypotheses on the Mean of a Normal",
+"Distribution; Variance Known as well as Unknown Cases, Tests of Hypotheses on the",
+"Variance of a Normal Distribution, Tests of Hypotheses on a Proportion."
+        ],
+        "Module IV": [
+          "Tests of Hypotheses on the Means of Two Normal Distributions; Variances Known as well as",
+"Unknown Cases, The Paired t-Test, Tests for Equality of two Variances, Tests of Hypotheses on two Proportions."
+
+        ],
+        "Module V": [
+         "Testing for Goodness of Fit, Contingency Table Tests, Neyman-Pearson Theory of Testing of",
+"Hypotheses, Uniformly Most Powerful Tests, Likelihood Ratio Tests, Unbiased Tests."
+        ]
+      }
+    },
+    {
+      "code": "MA418",
+      "title": "Mechanics",
+      "credits": "3-0-0-3",
+      "modules": {
+        "Module I": [
+          "Motion of a particle in two dimensions. Velocities and accelerations in Cartesian, polar, and intrinsic coordinates. Tangential and normal accelerations. Motion of a particle on a smooth or rough curve."
+        ],
+        "Module II": [
+          "Equation of motion referred to a set of rotating axes, Motion of a projectile in resisting medium. Motion of a particle in a plane under different laws of resistance."
+        ],
+        "Module III": [
+          "Central forces, Stability of nearly circular orbits. Motion under the inverse square law, Kepler’s laws, Time of describing an arc and area of any orbit, slightly disturbed orbits.",
+          "D’Alembert’s principle, The general equations of motion, Motion about a fixed axis, Compound pendulum."
+        ],
+        "Module IV": [
+          "Functional, Euler’s equations, Isoperimetric problems (Brachistochrone’s problem), Functional involving higher order derivatives. Hamilton’s principle,",
+          "Derivation of Lagrange’s equations, Generalized coordinates, Holonomic dynamical systems: derivation of Lagrange’s equations of motion; Lagrange’s function and equation in terms of L.",
+          "Hamilton’s function H and derivatives of Hamilton’s equation of motion in terms of Hamiltonian variables."
+        ],
+        "Module V": [
+          "Principle of least action, Fermat’s principle, Small oscillations, Lagrange and Poisson Brackets, Contact transformation, Elements of Hamilton Jacobi theory."
+        ]
+      }
+    },
+    {
+      "code": "MA419",
+      "title": "Mathematical Ecology",
+      "credits": "3-0-0-3",
+      "modules": {
+        "Module I": [
+          "Autonomous linear and nonlinear systems of differential equations:  Equilibrium Solutions, Eigenvalues, Stability analysis, Lyapunov’s functions, Phase Plane analysis, Routh – Hurwitz criterion"
+        ],
+        "Module II": [
+          "Single Species Models: Exponential, logistic and Gompertz growths, Bifurcations, Harvest models, Bifurcations and Break points, Constant Rate Harvesting, Fox Surplus Yield Model, Allee Effect."
+        ],
+        "Module III": [
+          "Interacting Population Models:  Lotka Volterra predator-prey models, plane analysis, General predator prey models and their",
+          "equilibrium solutions, existence of cycles, Bendixson- Dulac’s negative criterion, Hopf bifurcation theorem, Bifurcation diagrams,",
+          "Functional responses, Periodic orbits, Poincare – Bendixson theorem, Freedman and Wolkowicz model."
+        ],
+        "Module IV": [
+          "Competition Models: Lotka – Volterra Competition model, Competition Models with Unlimited growth, exploitation competition models, Mutualism models with various types of mutualisms."
+        ],
+        "Module V": [
+          "Exploited Population Models: Harvest models with optimal control theory, open access fishery, sole owner fishery, Pontryagin’s maximum principle. Structured Population Models: Formulation of spatially and age structured models."
+        ]
+      }
+    },
+    {
+      "code": "MA427",
+      "title": "MULTIPLE CRITERIA DECISION MAKING",
+      "credits": "3-0-0-3",
+      "modules": {
+        "Module I": [
+          "Introduction: The needs and basic elements. Binary Relations: Preference as a Binary",
+"Relation, Characteristics of Preferences, Optimality condition. Pareto optimal or efficient",
+"solutions: Introduction, General Properties of Pareto Optimal Solutions, Conditions for",
+"Pareto Optimality in the outcome space, Conditions for Pareto Optimality in the Decision Space."
+ 
+        ],
+        "Module II": [
+          "Goal setting and compromise solution Introduction, Satisfying solution. Goal settings,",
+"Preference ordering and optimality in satisfying solution. Mathematical program and interactive methods.",
+ "Compromise solutions. Basic concepts. General properties of compromise solutions."
+
+        ],
+        "Module III": [
+        " Value Function. Revealed preference from a value function. Condition for value functions to exist.",
+ "Additive and Monotonic value functions and preference separability. Conditions for Additive and monotonic value functions.",
+ "Structure of preference separability and value functions."
+ 
+        ],
+        "Module IV": [
+        " Some basic techniques for constructing value functions. Constructing general value",
+"functions. Constructing indifference curves (surfaces). Constructing the tangent planes and gradients of value functions.",
+ "Constructing the value function. Constructing the additive value functions. The first method for constructing the additive value function."
+
+        ],
+        "Module V": [
+          "Domination structures and non-dominated solutions. Introduction, Domination structures.",
+"Constant dominated cone structures. A characterization of n points and their polars.",
+"General properties of N-points. Cone convexity and N-points. N points in decision space."
+        ]
+      }
+    },
+    {
+      "code": "MA524",
+      "title": " Advanced Mathematical Techniques",
+      "credits": "3-0-0-3",
+      "modules": {
+        "Module I": [
+          "Introduction to dynamical systems, Linear Systems, Solution of homogeneous and non-homogeneous systems,",
+          "Fundamental Matrix, Autonomous system and stability, linearization of nonlinear dynamical systems, Lyapunov’s method."
+        ],
+        "Module II": [
+          "Definition, classification of integral equation, types of kernels. Conversion of IVPs into Volterra integral equation,",
+          "BVPs into Fredholm integral equation. Solution of Fredholm integral equations with separable (degenerate) kernels."
+        ],
+        "Module III": [
+          "Method of successive approximation: Iterated kernels, Resolvent kernel, solution of Fredholm and Volterra",
+          "equation of second kind by successive substitutions (method of iteration). Symmetric kernel, orthonormal system of function,",
+          "fundamental properties of eigenvalues and Eigen functions for symmetric kernels."
+        ],
+        "Module IV": [
+          "Numerical Partial Differential Equations: Finite difference approximations to partial derivatives, solution of",
+          "Laplace & Poisson’s equations using standard five pt. formula & diagonal five pt. formula."
+        ],
+        "Module V": [
+          "Solution of one - dimensional heat conduction equation, FTCS, BTCS and Crank Nicolson method. Solution of wave equation,",
+          "Upwind method and Lax- Wendroff method. Consistency, stability and convergence of finite difference methods."
+        ]
+      }
+    },
+    {
+      "code": "MA414R1",
+      "title": "Advanced Operation Research",
+      "credits": "3-0-0-3",
+      "modules": {
+        "Module I": [
+          "Dynamic Programming: Introduction of Dynamic Programming, Deterministic Dynamic Programming: Forward and Backward Recursion,",
+          "Applications of Dynamic Programming on Cargo load problem and inventory Models, Solution of linear programming problems by dynamic programming."
+        ],
+        "Module II": [
+          "Inventory Management: Introduction to general inventory Models, Classical Economic Order Quantity (EOQ) models, Inventory models with multiple price breaks,",
+          "EOQ with price breaks(One and two Price breaks only), multi-item EOQ with storage limitations. Introduction to dynamic EOQ Models, Introduction to Stochastic inventory models."
+        ],
+        "Module III": [
+          "Decision Analysis and Games: Decision making under certainty, risk and uncertainty. Optimal Solution of Two-Person Zero-Sum games and solution of mixed strategy games."
+        ],
+        "Module IV": [
+          "Queuing Theory: Basic elements of queuing models, Pure Birth and Death Models, Poisson Queuing systems: single server",
+          "models- {(M/M/1):(∞/FCFS)}, {(M/M/1):(N/FCFS)}, multiple server models-{(M/M/S):(∞ /FCFS)}, {(M/M/S):(N/FCFS)}."
+        ],
+        "Module V": [
+          "Classical Optimization Theory and Non-linear Programming: Unconstrained optimization: Fibonacci and Golden section method,",
+          "Gradient Method: Steepest descent, conjugate direction methods and Newton's method. Constraint Optimization with equality constraints:",
+          "Lagrange’s Multiplier Method, Constraint Optimization with inequality constraints: Kuhn Tucker Conditions, Quadratic Programming."
+        ]
+      }
+    }
+  ]
+}
+

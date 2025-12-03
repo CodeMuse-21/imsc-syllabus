@@ -1,0 +1,89 @@
+{
+  "semester": 7,
+  "total_credits": 20.5,
+  "courses": [
+    {
+      "code": "MA401R1",
+      "title": "Measure Theory and Integration",
+      "credits": "3-0-0-3",
+      "modules": {
+        "Module I": [
+            "Properties of Monotone functions, Functions of bounded variation along with their properties, Total variation,",
+            "Functions of bounded variation expressed as the difference of increasing functions, Continuous function of bounded variation.",
+            "Jordan’s rectifiable curve theorem."
+        ],
+        "Module II": [
+            "Definition Riemann-Stieltjes integral, Linear properties, Change of variable in a RiemannStieltjes integral,",
+            "Necessary and Sufficient conditions for existence of Riemann-Stieltjes integral, Mean value theorem for Riemann-Stieltjes integral. "
+        ],
+        "Module III": [
+            "Borel Sets, σ-ring, σ-algebra, Lebesgue outer measure, measurable sets and their properties, Lebesgue measure, measurable function. "
+        ],
+        "Module IV": [
+            "Simple function and measurable function, Lebesgue integral of a non-negative measurable function using simple functions,",
+            "Lebesgue integral of functions of arbitrary sign and basic properties (linearity and monotonicity)."
+        ],
+        "Module V": [
+            "Monotone convergence theorem and its consequences, Fatou’s lemma, Lebesgue dominated convergence theorem,",
+            "Comparison of Lebesgue integral and Riemann integral."
+        ]
+      }
+    },
+    {
+      "code": "MA402R1",
+      "title": "Advanced Complex Analysis",
+      "credits": "3-0-0-3",
+      "modules": {
+        "Module I": [
+            "Topology of the complex plane, Stereographic projection. Holomorphic (analytic) functions, Anti-derivatives,",
+            "Cauchy-Goursat Theorem (simple and multiple connected domain), Cauchy – Integral Formula and its extensions,",
+            "Cauchy’s Inequality, Morera’s theorem, Liouville’s theorem."
+        ],
+        "Module II": [
+            "Convergence of sequences and series, power series, absolute and uniform convergence of power series of complex functions,",
+            "integration and differentiation of power series, radius of convergence, Taylor and Laurent series, analytic continuation."
+        ],
+        "Module III": [
+            "Residues, Residue theorem. Multivalued functions and their properties, branch point, branch cut,",
+            "evaluation of integrals involving branch point using calculus of residues."
+        ],
+        "Module IV": [
+            "Meromorphic function and its properties, zeros and poles of meromorphic function, winding number, Argument principle,",
+            "Rouche’s theorem and its applications, Maximum Modulus theorem."
+        ],
+        "Module V": [
+            "Infinite products, convergence of infinite products, Entire functions, Weierstrass primary factors,",
+            "Weierstrass infinite product, Hadamard’s factorization theorem, genus and order of entire function, growth of entire functions."
+        ]
+      }
+    },
+    {
+      "code": "MA404",
+      "title": "Mathematical Epidemiology",
+      "credits": "3-1-0-4",
+      "modules": {
+        "Module I": [
+            "Qualitative analysis of linear and nonlinear systems: Existence, uniqueness and continuity of solutions, Diagonalization of linear systems,",
+            "fundamental theorem of linear systems, the phase paths of linear autonomous plane systems, complex eigenvalues, multiple eigenvalues,",
+            "stability theorem, linearization of nonlinear dynamical systems (two, three and higher dimension),",
+            "Stability: (i) asymptotic stability (Hartman’s theorem), (ii) global stability (Lyapunov’s second method)."
+        ],
+        "Module II": [
+            "Deterministic Epidemic Models: Deterministic model of simple epidemic, Infection through vertical and horizontal transmission,",
+            "General epidemic- Kermack-Mckendrick Threshold Theorem, Recurrent epidemics, Seasonal variation in infection rate, allowance of incubation period,",
+            "Simple model for the spatial spread of an epidemic."
+        ],
+        "Module III": [
+            "Non-Constant Total Population Model in Epidemic: Introduction, Parasite-host system, SIS, SIR and SIRS type model. "
+        ],
+        "Module IV": [
+            "Stochastic Epidemic Models: Introduction, stochastic simple epidemic model, Yule-Furry model (pure birth process),",
+            "expectation and variance of infective, calculation of expectation by using moment generating function."
+        ],
+        "Module V": [
+            "Eco-Epidemiology: Introduction, host-parasite-predator systems, viral infection on phytoplankton zooplankton (prey-predator) system."
+        ]
+      }
+    }
+  ]
+}
