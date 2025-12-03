@@ -1,0 +1,180 @@
+{
+  "semester": 3,
+  "total_credits": 21.5,
+  "courses": [
+    {
+      "code": "MA202R1",
+      "title": "Abstract Algebra",
+      "credits": "3-0-0",
+      "modules": {
+        "Module I": [
+          "Primes, infinitude of primes, Fundamental theorem of arithmetic, congruence, Chinese remainder theorem,",
+          "Partition of integers, Euler phi-function, tao-function and Mobius inversion formula.",
+          "Binary operations, introduction to groups (Symmetric group, Quaternion group, Dihedral group),",
+          "Subgroups, cyclic groups, cosets, and Lagrange’s theorem."
+        ],
+        "Module II": [
+          "Normal subgroup, quotient groups, simple group, homomorphism’s and isomorphism’s of group,",
+          "Permutation groups, Cayley’s theorem, correspondence theorem and its corollary, direct products of groups."
+        ],
+        "Module III": [
+            "Conjugacy classes, Cauchy’s theorem and p-groups, Sylow’s theorems and application",
+            "The finitely generated Abelian groups, fundamental theorem of finitely generated abelian group, invariant factors, elementary divisors."
+        ],
+        "Module IV": [
+          "Line integrals, vector field, work, circulation, path independence, potential function and conservative field.",
+          "Surface integral, flux, volume integral, Gauss, Green’s and Stoke’s theorems, application of vector calculus in engineering problems."
+        ],
+        "Module V": [
+          "Transformation of coordinates, orthogonal curvilinear coordinates, Gradient, divergence and curl in curvilinear co-ordinate systems,",
+          "Special orthogonal curvilinear coordinate system: cylindrical, spherical, etc."
+        ]
+      }
+    },
+    {
+      "code": "MA106R1",
+      "title": "Ordinary Differential Equations",
+      "credits": "3-1-0",
+      "modules": {
+        "Module I": [
+          "First order linear and nonlinear differential equations and their solutions.",
+          "Trajectories (Orthogonal, oblique, polar and Cartesian coordinate).",
+          "Equations of first order but not of first degree and singular solutions: equation solvable for x and y, Lagrange’s equation, Clairaut’s equation, singular solutions (Envelopes)."
+        ],
+        "Module II": [
+          "Wronskian and linear dependence of functions, Abel’s formula. Higher-order linear differential equations with constant coefficients, C.F and P.I.",
+          "Euler-Cauchy equations. Method specific to second ODE: Methods of undetermined coefficients, reduction of order and Method of variation of parameters."
+        ],
+        "Module III": [
+          "Simultaneous linear differential equations with constant coefficients, total differential equation, and condition of integrability."
+        ],
+        "Module IV": [
+          "Series solution around an ordinary point and a regular singular point, the method of Frobenius. Bessel and Legendre equations."
+        ],
+        "Module V": [
+          "Initial value problems: Picard’s iteration method, Lipschitz condition, existence and uniqueness of solution of initial value problems for first order ODEs.",
+          "Adjoint and SelfAdjoint differential equations, Sturm-Liouville problem, Eigen values and Eigen functions."
+        ]
+      }
+    },
+    {
+      "code": "MA110R1",
+      "title": "Complex Analysis",
+      "credits": "3-1-0",
+      "modules": {
+        "Module I": [
+          "Function of a complex variable, Limit, continuity, differentiability and analyticity of complex variable functions,",
+          "analytic functions, Cauchy – Riemann equations in cartesian and polar forms."
+        ],
+        "Module II": [
+          "Integration of complex variable function, line integrals, properties of line integrals, Cauchy’s theorem,",
+          "Cauchy’s Integral Formula, Cauchy’s Integral formula for derivatives of analytic function."
+        ],
+        "Module III": [
+          "Power Series, Taylor series, Laurent Series. Zeros and singularities of analytic function, types of singularities and their properties"
+        ],
+        "Module IV": [
+          "Residues, computation of residues at poles, Cauchy – Residue theorem. Application of residue calculus in evaluation of real integrals."
+        ],
+        "Module V": [
+          "Mappings (or Transformations) of complex variable functions, Conformal Mapping, Elementary transformations – translation, rotation, magnification, inversion, Bilinear transformation."
+        ]
+      }
+    },
+    {
+      "code": "CE101",
+      "title": "Environmental Science",
+      "credits": "2-0-0",
+      "modules": {
+        "Module I": [
+          "Concepts of Ecology and Environmental science, ecosystem: structure, function and services, Biogeochemical cycles,",
+          "energy and nutrient flow, ecosystem management, fate of environmental pollutants, environmental status and reports on climate change."
+        ],
+        "Module II": [
+          "Structure and composition of unpolluted atmosphere, classification of air pollution sources, types of air pollutants,",
+          "effects of air pollution, monitoring of air pollution, control methods and equipment for air pollution control,",
+          "vehicular emissions and control, indoor air pollution, air pollution episodes and case studies."
+        ],
+        "Module III": [
+          "Water Resource; Water Pollution: types and Sources of Pollutants; effects of water pollution; Water quality monitoring,",
+          "various water quality indices, water and waste water treatment: primary, secondary and tertiary treatment,",
+          "advanced treatments (nitrate and phosphate removal); Sludge treatment and disposal."
+        ],
+        "Module IV": [
+          "Lithosphere – composition, soil properties, soil pollution, ecological & health effects,",
+          "Municipal solid waste management – classification of solid wastes, MSW characteristics, collection, storage,",
+          "transport and disposal methods, sanitary landfills, technologies for processing of MSW: incineration, composing, pyrolysis."
+        ],
+        "Module V": [
+          "Noise pollution: introduction, sources: Point, line and area sources; outdoor and indoor noise propagation,",
+          "Effects of noise on health, criteria noise standards and limit values, Noise measurement techniques and analysis,",
+          "prevention of noise pollution; Radioactive pollution: introduction, sources, classification, health and safety aspects,",
+          "Hazards associated with nuclear reactors and disposal of spent fuel rods-safe guards from exposure to radiations,",
+          "international regulation, Management of radioactive wastes."
+        ]
+      }
+    },
+    {
+      "code": "PH109",
+      "title": "Physics I",
+      "credits": "3-1-0",
+      "modules": {
+        "Module I": [
+          "Gauss’s law and its applications, electric potential, relation between E and V, capacitance, energy density of an",
+          "electric field, dielectrics, dielectric constant, dielectric polarization, three electric vectors E, D, P,",
+          "boundary conditions for E and D at interface between two dielectrics."
+        ],
+        "Module II": [
+          "Ampere’s law, Biot-Savart law, inductance, energy density of a magnetic field, Gauss’s law in magnetism,",
+          "three magnetic vectors H, B, M, boundary conditions for B and H, Faraday’s Law, Displacement current,",
+          "Maxwell’s equations in free space, plane electromagnetic waves in free space, Poynting vector, pressure and momentum of EM waves."
+        ],
+        "Module III": [
+          "Nuclear forces, binding energy, liquid drop model, fission, nuclear reactors, fusion, energy processes in stars, controlled thermonuclear reactions."
+        ],
+        "Module IV": [
+          "Huygen’s construction for propagation of a wavefront, superposition principle, conditions for interference of light,",
+          "coherence, Young’s double-slit experiment, Newton’s rings, Diffraction, Fraunhofer diffraction by a single slit,",
+          "diffraction grating (qualitative), Polarization, polarizers, Malus’ Law, Brewster’s Law, Double Refraction."
+        ],
+        "Module V": [
+          "Postulates, Galilean transformations, Lorentz transformation, length contraction, time dilation, velocity addition,",
+          "mass change and Einstein's mass energy relation, Application of Relativity in GPS system."
+        ]
+      }
+    },
+    {
+      "code": "CS101",
+      "title": "Programming for Problem Solving",
+      "credits": "3-1-0",
+      "modules": {
+        "Module I": [
+          "Introduction to Programming: Introduction to components of a computer system (disks, memory, processor, where a program is",
+          "stored and executed, operating system, compilers etc.) Problem Solving: Steps to solve logical and numerical problems.",
+          "Representation of Algorithm: Flowchart/Pseudo code with examples. From algorithms to programs; source code, variables",
+          "(with data types) variables and memory locations, Syntax and Logical Errors in compilation, object and executable code."
+        ],
+        "Module II": [
+          "Arithmetic expressions and precedence, Conditional Branching and Loops, Writing and evaluation of conditionals, Iterations, Loops."
+        ],
+        "Module III": [
+          "Array, Character array, strings. Case studies to discuss the various Problems related to Basic science",
+          "(Matrix addition, Matrix-matrix multiplication, Roots of an equation etc.), Sorting, Searching."
+        ],
+        "Module IV": [
+          "Functions (including using built in libraries), Parameter passing in functions, call by value, call by reference.",
+          "Passing arrays to functions, Recursion (Finding Factorial, Fibonacci series, Ackerman function etc.)."
+        ],
+        "Module V": [
+          "Structures, Defining structures and Array of Structures Pointers: Defining pointers, Use of Pointers in self referential structures, File Handling."
+        ]
+      }
+    },
+    {
+      "code": "VAC",
+      "title": "Value Added Course",
+      "credits": "1",
+      "options": ["NCC", "NSS", "PT & Games", "Creative Arts", "Entrepreneurship"]
+    }
+  ]
+}

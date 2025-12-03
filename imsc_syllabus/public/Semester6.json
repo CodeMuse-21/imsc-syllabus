@@ -1,0 +1,169 @@
+{
+  "semester": 6,
+  "total_credits": 21.5,
+  "courses": [
+    {
+      "code": "MA309R1",
+      "title": "Optimization Techniques",
+      "credits": "3-0-0-3",
+      "modules": {
+        "Module I": [
+            "Linear Programming Problem (LPP): Mathematical Formulation of LPP, Solution of LPP:",
+            "Graphical Method, Simplex Method, Big-M Method, Two Phase method, Duality theory,Dual Simplex algorithm, Post-optimal Analysis."
+        ],
+        "Module II": [
+            "Transportation and Assignment Models: Solution of Transportation problem: Initial Basic",
+            "Feasible Solution by North-West Corner Method, least Cost, Vogel Approximation Method.",
+            "Optimal solution by MODI Method. Assignment Model: Hungarian Method."
+        ],
+        "Module III": [
+            "Advanced Linear Programming: Revised Simplex Method, Parametric Linear",
+            "Programming, Integer Linear Programming: Branch and Bound Method, Cutting Plane Method."
+        ],
+        "Module IV": [
+            "Network Analysis (CPM and PERT): Network and basic components, Determination of critical path:",
+            "Critical Path Method (CPM), Project Evaluation and Review Techniques (PERT)."
+        ],
+        "Module V": [
+            "Sequencing Problem: Problem of Sequencing, Processing n Jobs through Two Machines,",
+            "Processing n Jobs through 3 Machines and Processing n Jobs through k Machines."
+        ]
+      }
+    },
+    {
+      "code": "MA307",
+      "title": "Computational Linear Algebra",
+      "credits": "3-0-0-3",
+      "modules": {
+        "Module I": [
+          "Basic concept of a linear system of equations. Direct methods: Gauss elimination method,",
+          "partial and complete pivoting, Gauss-Jordan method, LU decompositions, Cholesky method,",
+          "Partition method, Vector and matrix norms, condition numbers, estimating condition",
+          "numbers, significant digit, floating point arithmetic, analysis of round off errors."
+        ],
+        "Module II": [
+           "Iterative methods: General iteration method, Jacobi and Gauss-Seidel iteration methods,",
+           "Successive over relation method (SOR), convergence analysis of iterative methods and optimal relaxation parameter for the SOR method."
+
+        ],
+        "Module III": [
+           "Gram-Schmidt orthonormal process, orthogonal matrices, Householder transformation,",
+           "Givens rotations, QR factorization, round off error analysis of orthogonal matrices, stability of QR factorization."
+
+        ],
+        "Module IV": [
+            "Solution of linear least squares problems, singular value decomposition (SVD), polar",
+            "decomposition, Moore-Penrose inverse and rank deficient least squares problems. Reduction to Heisenberg and tri-diagonal forms."
+
+        ],
+        "Module V": [
+            "Eigen values and Eigen vectors: Bounds on eigenvalues, Gerschgorin bounds, Jacobi, Givens,",
+            "Householder’s methods for symmetric matrices. Dominant and smallest Eigen values/Eigen",
+            "vectors by power method, Rayleigh quotient iteration, explicit and implicit QR algorithms for",
+            "symmetric and non-symmetric matrices, implementation of implicit QR algorithm,",
+            "computing the SVD, sensitivity analysis of singular values and singular vectors, the Arnoldi and the Lanczos iterations."
+
+        ]
+      }
+    },
+    {
+      "code": "MA 308",
+      "title": "Difference Equations",
+      "credits": "3-0-0-3",
+      "modules": {
+        "Module I": [
+            "The Difference Calculus: Genesis of difference equations, Definitions, derivation of",
+            "difference equations, existence and uniqueness theorem, Operators Δ and E, Elementary",
+            "difference operators, factor polynomials, Operator Δ-1 and the sum calculus."
+        ],
+        "Module II": [
+            "First Order difference equations: Introduction, General linear equations with examples,",
+           "equations with examples, Continued fractions, A general first-order equations: Geometrical methods and expansion techniques."
+        ],
+        "Module III": [
+          " Linear Difference equations: Introduction, Linearly dependent functions, fundamental",
+          "theorem for homogeneous equations, Inhomogeneous equations, second order equations,Sturm-Liouville difference equations."
+
+        ],
+        "Module IV": [
+           "Linear Difference equations (Contd…): Homogeneous equations: Construction of",
+           "difference equation having specified solutions, relationship between linear difference and differential equations.",
+           "Inhomogeneous equations: Method of undetermined coefficients and separation method The z-transform method."
+
+        ],
+        "Module V": [
+           "Linear Partial Difference equations: Introduction, symbolic methods, Lagrange’s and",
+           "separation of variables, Laplace method, Particular solution, Simultaneous equations with constant coefficients."
+        ]
+      }
+    },
+
+
+
+
+     {
+      "code": "MA316R1",
+      "title": "Statistical Quality Control and Reliability",
+      "credits": "3-0-0-3",
+      "modules": {
+        "Module I": [
+        " Meaning and uses of SQC, chance and assignable causes of variation, process and product control,",
+  "charts, Chebyshev inequality and its applications in SQC, 3 and 6 limits."
+        ],
+        "Module II": [
+          "Control charts for quantitative characteristics, mean and range chart, standard deviation or ",
+"chart , Control charts for qualitative characteristics, p chart, d chart, control chart for number",
+"of defects per unit (c chart), cumulative sum (CUSUM) chart modified control chart."
+        ],
+        "Module III": [
+         "Acceptance Quality Level (AQL), Lot Tolerance Proportion Defective (LTPD), Process",
+"Average Fraction Defective (PAFD), Consumer’s risk, Producer’s risk, Rectifying Inspection",
+"Plans, Average Outgoing Quality Limit (AOQL), Operating Characteristic (OC) curve,",
+"Average Sample Number (ASN), Dodge and Romig rectifying sampling inspection plans,",
+"single sampling, double sampling plan, sequential sampling."
+        ],
+        "Module IV": [
+          "Reliability function, Applications of Exponential, Gamma, normal, lognormal, Weibull",
+"distributions in reliability and estimation of their parameters, reliability estimation with complete and censored samples."
+
+        ],
+        "Module V": [
+          "Testing of hypothesis and confidence intervals in the context of reliability; reliability of series, parallel and standby systems."
+
+        ]
+      }
+    },
+
+     {
+      "code": "MA 308",
+      "title": "Difference Equations",
+      "credits": "3-0-0-3",
+      "modules": {
+        "Module I": [
+            "The Difference Calculus: Genesis of difference equations, Definitions, derivation of",
+"difference equations, existence and uniqueness theorem, Operators Δ and E, Elementary",
+"difference operators, factor polynomials, Operator Δ-1 and the sum calculus."
+        ],
+        "Module II": [
+           "First Order difference equations: Introduction, General linear equations with examples,",
+           "equations with examples, Continued fractions, A general first-order equations: Geometrical methods and expansion techniques."
+        ],
+        "Module III": [
+          " Linear Difference equations: Introduction, Linearly dependent functions, fundamental",
+          "theorem for homogeneous equations, Inhomogeneous equations, second order equations,Sturm-Liouville difference equations."
+
+        ],
+        "Module IV": [
+           "Linear Difference equations (Contd…): Homogeneous equations: Construction of",
+           "difference equation having specified solutions, relationship between linear difference and differential equations.",
+           "Inhomogeneous equations: Method of undetermined coefficients and separation method The z-transform method."
+
+        ],
+        "Module V": [
+           "Linear Partial Difference equations: Introduction, symbolic methods, Lagrange’s and",
+           "separation of variables, Laplace method, Particular solution, Simultaneous equations with constant coefficients."
+        ]
+      }
+    }
+  ]
+}

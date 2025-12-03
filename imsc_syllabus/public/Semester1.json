@@ -1,0 +1,168 @@
+{
+  "semester": 1,
+  "total_credits": 20.5,
+  "courses": [
+    {
+      "code": "MA101",
+      "title": "Calculus-I",
+      "credits": "3-1-0",
+      "modules": {
+        "Module I": [
+            "Successive Differentiation and Mean Value Theorem: Leibnitz Theorem,",
+            "Generalized Mean Value Theorem, Taylor’s and Maclaurin’s",
+            "Expansion of Functions of Single Variable. Increasing and decreasing functions.",
+            "Concavity, Convexity and Inflection point of a function. Extrema of functions."
+        ],
+        "Module II": [
+            "Analysis of functions: Behavior of a function at infinity: Asymptotes.",
+            "Orthogonal Intersection of Curves, Curvature and Radius of Curvature of a Curve in Cartesian,",
+            "Parametric, Polar and Tangential Polar forms."
+        ],
+        "Module III": [
+            "Functions of several variables: limit and continuity, partial derivatives.",
+            "Euler’s theorem, derivatives of composite and implicit functions, total derivatives,",
+            "Errors and Approximations, Jacobian’s. Taylor’s and Maclaurin’s expansion of functions of several variables,",
+            "Maxima and minima of functions of several variables, Lagrange’s method of undetermined multipliers."
+        ],
+        "Module IV": [
+            "Definite Integral: Reduction Formula, Differentiation under Integral Sign: Differentiation of Integrals with constant and variable limits, Leibnitz rule.",      
+            "Improper integrals: convergence of improper integrals, test of convergence, Beta and Gamma Functions and its Properties, Error functions."
+        ],
+        "Module V": [
+            "Application of Definite Integral: Length of a Plane Curve, Area between Two Curves,",
+            "Volume, Volume of Revolution, Area of Revolution, Work and Moments."
+        ]
+      }
+    },
+    {
+      "code": "MA102",
+      "title": "Real Analysis",
+      "credits": "3-1-0",
+      "modules": {
+        "Module I": [
+            "Axiomatic description of R, Archimedean property, Bounds: Sup. And inf. Ofa subset of R,",
+            "Notion of neighborhood, interior point and limit point of a subset of R,",
+            "open set and closed set together with their usual properties."
+        ],
+        "Module II": [
+            "Monotonic sequence, limit of a sequence, convergent, divergent and oscillating sequences,",
+            "lim sup and lim.inf. of sequences, Bolzano-Wierstrass theorem (Statement only), monotone convergence theorem,",
+            "subsequence and Cauchy theorems on limit, Cauchy sequence, Nested interval theorem"
+        ],
+        "Module III": [
+            "Convergence of series of real numbers of positive terms. P series test, comparison tests, Cauchy’s root test,",
+            "D’ Alembert’s ratio test, Raabe’s test, Cauchy’s Integral Test.  Gauss’s Ratio Test, Logarithmic and Higher Logarithmic Ratio Test,",
+            "Absolute and conditional convergence, Leibnitz’s Rule for Alternating series Test. "
+        ],
+        "Module IV": [
+            "Sequence of functions, uniform boundedness, pointwise and uniform convergence of sequence of functions, Series of functions,",
+            "pointwise and uniform convergence of series of functions, Weierstrass-M Test."
+        ],
+        "Module V": [
+            "Riemann integral, definition and existence of the integral, Upper and Lower Integrals, Darbous theorem,",
+            "Properties of the integral, differentiation and integration, Fundamental theorem of integral calculus,",
+            "Riemann integration of continuous and monotonic functions. Mean value theorems of integral calculus."
+        ]
+      }
+    },
+    {
+      "code": "MA109",
+      "title": "Matrix Theory",
+      "credits": "3-1-0",
+      "modules": {
+        "Module I": [
+            "Matrices, matrix operations, algebra of matrices, orthogonal, idempotent, nilpotent, involutary,",
+            "hermitian, skew- hermitian, unitary matrices and their properties, partition of matrices."
+        ],
+        "Module II": [
+            "Elementary operations, elementary matrices, inverse using elementary transformations, rank of a matrix, row-reduced echelon form,",
+            "normal form, consistency of system of linear equations using rank (homogeneous and non - homogeneous)."
+        ],
+        "Module III": [
+            "Solution to system of linear equations using gaussian elimination, gauss – jordan method, lu decomposition.",
+            "Linear independence and dependence of vectors, introduction to linear transformations, matrix of linear transformation."
+        ],
+        "Module IV": [
+            "Matric polynomials, characteristic equation, eigenvalues, eigenvectors, algebraic and geometric multiplicity of eigen values,",
+            "diagonalization of matrices, orthogonal diagonalization, minimal polynomials."
+        ],
+        "Module V": [
+            "Cayley-Hamilton theorem and its applications, real quadratic forms: definitions, examples of positive definite,",
+            "positive semi definite, negative definite, negative semi definite and indefinite quadratic forms, rank, index and signature of quadratic forms."
+        ]
+      }
+    },
+    { 
+        "code": "CH111", 
+        "title": "Chemistry I", 
+        "credits": "3-1-0",
+        "modules": {
+        "Module I": [
+            "Atomic Structure Bohr’s theory, Wave mechanics: de Broglie equation, Heisenberg’s Uncertainty Principle,",
+            "Schrödinger’s wave equation, significance of ψ and ψ2. Quantum numbers and their significance.",
+            "Normalized and orthogonal wave functions.",
+            "Sign of wave functions. Radial and angular wave functions for hydrogen atom. Radial and angular distribution curves.",
+            "Shapes of s, p, d and f orbitals. Contour boundary and probability diagrams.",
+            "Pauli’s Exclusion Principle, Hund’s rule, Aufbau’s principle, Variation of orbital energy with atomic number."
+        ],
+        "Module II": [
+            "Periodicity of Elements s, p, d, f block elements, the long form of periodic table.",
+            "Detailed discussion of properties of the elements with reference to s and p-block.",
+            "Shielding effect, Slater rules, variation of properties in periodic table.",
+            "Atomic & Ionic radii (van der Waals), Ionization enthalpy, electron gain enthalpy, Electronegativity, hybridization, group electronegativity.",
+            "Sanderson’s electron density ratio."
+        ],
+        "Module III": [
+            "Basics of Organic Chemistry Organic Compounds: Classification, Nomenclature, Hybridization,",
+            "Electronic Displacements: Inductive, electromeric, resonance and mesomeric effects, hyperconjugation, Dipole moment. Organic acids and bases.",
+            "Homolytic and Heterolytic fission, arrow rules, Electrophiles and Nucleophiles; Carbocations, Carbanions, Free radicals and Carbenes.",
+            "Introduction to types of organic reactions and their mechanism: Addition, Elimination and Substitution reactions."
+        ],
+        "Module IV": [
+            "Chemical Bonding Ionic bond: Radius ratio rule, Packing of ions in crystals. Born-Landé equation, Madelung constant,",
+            "Born-Haber cycle. Metallic Bond: valence bond and band theories, defects in solids.",
+            "Weak Chemical Forces: Van der Waals forces, ion-dipole forces, dipole-dipole interactions, induced dipole interactions, Hydrogen bonding.",
+            "Covalent bond: Lewis structure, Valence Bond theory, Resonance and resonance energy, Molecular orbital theory.",
+            "Molecular orbital diagrams of diatomic and simple polyatomic molecules, Valence shell electron pair repulsion theory (VSEPR), multiple bonding.",
+            "Fajan’s rules and consequences of polarization."
+        ],
+        "Module V": [
+            "Stereochemistry Fischer Projection, Newmann and Sawhorse Projection formulae and their interconversions;",
+            "Geometrical isomerism: cis–trans and, syn-anti isomerism E/Z notations with C.I.P rules.", 
+            "Optical Isomerism: Optical Activity, Specific Rotation, Chirality/Asymmetry, Enantiomers,",
+            "Molecules with two or more chiral-centres, Distereoisomers, meso structures, Racemic mixture and resolution.",
+            "Relative and absolute configuration: D/L and R/S designations."
+        ]
+      } 
+    },
+    { 
+        "code": "CH112", 
+        "title": "Chemistry I Lab", 
+        "credits": "0-0-4",
+        "modules": [
+            "(A) Titrimetric Analysis",
+            "(i) Calibration and use of apparatus ",
+            "(ii) Preparation of solutions of different Molarity/Normality of titrants",
+            
+            "(B) Acid-Base Titrations",
+            "(i) Estimation of carbonate and hydroxide present together in mixture.",
+            "(ii) Estimation of carbonate and bicarbonate present together in a mixture.",
+            "(iii) Estimation of free alkali present in different soaps/detergents",
+            
+            "(C) Purification of organic compounds by crystallization using the following solvents:",
+            "a. Water",
+            "b. Alcohol",
+            "c. Alcohol-Water",
+            
+            "(D) Determination of the melting points of above compounds and unknown organic compounds (Kjeldahl method and electrically heated melting point apparatus)."
+        ]
+    },
+    { "code": "MT132", "title": "Communication Skill I", "credits": "0-0-3" },
+    {
+      "code": "VAC",
+      "title": "Value Added Course",
+      "credits": "1",
+      "options": ["NCC", "NSS", "PT & Games", "Creative Arts", "Entrepreneurship"]
+    }
+  ]
+}
